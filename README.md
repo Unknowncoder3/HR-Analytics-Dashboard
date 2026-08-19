@@ -1,5 +1,11 @@
 # HR Analytics Dashboard
 
+## 💼 Business Problem
+
+Employee attrition can significantly impact an organization's productivity, operational costs, and workforce stability. Understanding why employees leave and identifying patterns across departments, demographics, job roles, and satisfaction levels can help organizations make better workforce decisions.
+
+This project analyzes HR data to identify key attrition trends and provide insights into employee demographics, job satisfaction, education, and workforce distribution through an interactive Tableau dashboard.
+
 ## 📊 Project Overview
 
 This project presents an **interactive HR Analytics Dashboard** developed using **Tableau**. The dashboard helps analyze key workforce metrics and provides insights into employee attrition, demographics, job satisfaction, education, age distribution, and gender-based attrition.
